@@ -1,1 +1,1 @@
-#HealthAI - AI-powered Health Assistant
+# HealthAI - AI-powered Health Assistant
