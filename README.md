@@ -6,20 +6,24 @@ HealthAI is an AI-powered health assistant that offers personalized medical guid
 ## OVERVIEW
 The page has these features:
 
-## Financial Question Answering
+## Symptom Checker
 
-![Financial Question Answering](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
+![Symptom Checker](https://github.com/Rachit2527/HealthAI---AI-Assistant-for-Health-and-Wellness/blob/main/Symptom.png?raw=true)
 
-## Financial Sentiment Analysis with Text Generation
+## Treatment Recommendation
 
-![Financial Sentiment Analysis with Text Generation](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
+![Treatment Recommendation](https://github.com/Rachit2527/HealthAI---AI-Assistant-for-Health-and-Wellness/blob/main/Treatment.png?raw=true)
 
-## Generative AI for Personalized Financial Advice
 
-![Generative AI for Personalized Financial Advice](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3020).png?raw=true)
+## Dietary Advice
 
-![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3021).png?raw=true)
+![Treatment Recommendation](https://github.com/Rachit2527/HealthAI---AI-Assistant-for-Health-and-Wellness/blob/main/Advice.png?raw=true)
+
+## Fitness Plan Generator
+
+![Fitness Plan Generator](https://github.com/Rachit2527/HealthAI---AI-Assistant-for-Health-and-Wellness/blob/main/Fitness.png?raw=true)
+![](https://github.com/Rachit2527/HealthAI---AI-Assistant-for-Health-and-Wellness/blob/main/Fitness2.png?raw=true)
+
 
 ## Key Features
 
