@@ -37,7 +37,10 @@ Receive tailored dietary advice based on specific health conditions (e.g., heart
 4. Fitness Plan Generator
 Create a personalized fitness plan based on age, weight, and fitness goals (e.g., weight loss, muscle gain).
 
-## Technologies Used
+## Technologies Used:
+
 --HuggingFace: For language models and natural language processing.
+
 --LangChain: To create and manage the AI-driven conversational logic.
+
 --Streamlit: For building an interactive user interface and deploying the application.
